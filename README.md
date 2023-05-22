@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=72bdfd&height=300&section=header&text=I'm%20Jean&fontSize=90&animation=fadeIn&desc=Someone%20with%20a%20bit%20of%20a%20front%20end%20to%20node.js&descAlignY=65)
 
 <div align="center">
-<p style="font-size:2em">🙋 Hello </p><p style="margin-bottom:3em;font-size:1em">I'm currently studying Node.js.🧑‍💻<br>I started learning on my own,<br>but now I'm attending a bootcamp to enhance my collaboration skills.✨</p>
+<h3>🙋 Hello </h3><p style="margin-bottom:3em;font-size:1em">I'm currently studying Node.js.🧑‍💻<br>I started learning on my own,<br>but now I'm attending a bootcamp to enhance my collaboration skills.✨</p>
 
 <div style="margin-top:3em">
     <h2>❄️ Tech Stack ❄️</h2>
