@@ -27,11 +27,14 @@
 
 <div style="margin-top:3em">
     <h2>✍️ Dev Blog</h2>
- <a href="https://velog.io/@jw01987" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
- <a href="https://jw01987.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    
+<a href="https://velog.io/@jw01987" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+
     
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jw01987)](https://velog.io/@jw01987)
+
+<a href="https://jw01987.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
+[![Github Blog Stats](https://gitblog-stats.vercel.app/api?xml=https://jw01987.github.io/feed.xml)](https://jw01987.github.io)
 
 </div>
 <div style="margin:3em 0 3em 0">
