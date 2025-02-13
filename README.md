@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,100:a2d2ff&text=Jowon%20Han&fontColor=fcf6ff&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,100:a2d2ff&text=Jowon%20Han&fontColor=ffffff&height=200)
 
 <div align="center">
 <h1> 🌟 Together, We're Strong! 🌟 </h1>  함께 성장할 때 좋은 서비스를 만들 수 있다고 믿는 <br> 신입 개발자 한조원입니다.
