@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,100:a2d2ff&text=Jowon%20Han&fontColor=ffffff&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,100:a2d2ff&text=Together,%20We're%20Strong!&fontColor=ffffff&height=200)
 
 <div align="center">
-<h1> 🌟 Together, We're Strong! 🌟 </h1>  함께 성장할 때 좋은 서비스를 만들 수 있다고 믿는 <br> 신입 개발자 한조원입니다.
+<h1> 🌟 함께 성장할 때 좋은 서비스를 만들 수 있다고 믿는 신입 개발자 🌟 </h1> 
+<p> - `NestJS` `TypeORM` `webRTC` `Node.js` 를 이용하여 서버를 구축하고 배포한 경험이 있습니다.</p>
+<p> - 효율적으로 문제를 해결하는 방법에 관심을 가지게 되었고, 이를 직접 구현할 수 있는 사람이 되고 싶어 개발자의 길을 선택했습니다.</p>
     
 
 <div style="margin-top:3em">
