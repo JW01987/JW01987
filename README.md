@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <div style="margin-bottom:2em"></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw01987&layout=compact)](https://github.com/jw01987/github-readme-stats)
