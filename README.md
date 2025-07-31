@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <div style="margin-bottom:2em"></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw01987&layout=compact)](https://github.com/jw01987/github-readme-stats)
@@ -33,8 +35,6 @@
   <a href="https://velog.io/@jw01987" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
   
-</div>
-<a href="https://hits.seeyoufarm.com" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJW01987&count_bg=%23BDE0FE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false"/></a>
-</div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,100:a2d2ff&height=200&section=footer)
