@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <div style="margin-bottom:2em"></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw01987&layout=compact)](https://github.com/jw01987/github-readme-stats)
-
 </div>
 
 <div style="margin-top:3em">
